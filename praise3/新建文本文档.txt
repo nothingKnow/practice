@@ -1,0 +1,6 @@
+1、x-tag
+2、npm gulp gulp-babel
+3、webpack    better-npm-run  
+4、webpack-livereload-plugin  自动刷新插件
+5、babel-loader  编译
+6、
